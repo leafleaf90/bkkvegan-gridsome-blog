@@ -39,8 +39,6 @@
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
     "@fortawesome/vue-fontawesome": "^2.0.2",
     "gridsome-plugin-tailwindcss": "^4.1.1",
-    "tailwindcss-dark-mode": "^1.1.7",
-    "vue-svg-inline-loader": "^2.1.2",
-    "vue-svg-loader": "^0.16.0"
+    "tailwindcss-dark-mode": "^1.1.7"
   }
 }
