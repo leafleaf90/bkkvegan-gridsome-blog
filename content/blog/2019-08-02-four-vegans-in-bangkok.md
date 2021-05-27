@@ -5,9 +5,8 @@ category: Inspiration
 excerpt: Meet 4 vegans in Bangkok that inspire with healthy lifestyles, business mindsets and compassionate living.
 created: 2019-08-02
 image: ./images/4vegans-banner.png
-image_caption: Photo by Sadanand Lowanshi on Unsplash
+image_caption: 4 vegans
 author: author1
-featured: true
 ---
 
 *Meet 4 vegans in Bangkok that inspire with healthy lifestyles, business mindsets and compassionate living.*
