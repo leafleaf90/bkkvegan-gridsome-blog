@@ -1,0 +1,38 @@
+{
+  "headerNavigation": [
+    {
+      "name": "Home",
+      "link": "/",
+      "external": false
+    },
+    {
+      "name": "Categories",
+      "link": "#",
+      "children": [
+        {
+          "name": "Interviews",
+          "link": "/category/interview/",
+          "external": false
+        },
+        {
+          "name": "Travel",
+          "link": "/category/travel/",
+          "external": false
+        },
+         {
+           "name": "Books",
+           "link": "/category/books/",
+           "external": false
+         }
+      ]
+    }
+  ],
+  "footerNavigation": [
+    {
+      "name": "Latest Posts",
+      "link": "/",
+      "external" : false
+    }
+
+  ]
+}
