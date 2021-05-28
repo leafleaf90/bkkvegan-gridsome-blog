@@ -7,7 +7,7 @@ created: 2020-10-21
 image: ./images/breakfast-banner.jpg
 image_caption: Breakfast
 author: author1
-featured: false
+featured: true
 ---
 
 **In his book “We Are The Weather”, Jonathan Safran Foer offers a sliver of hope for humanity to crawl back from the brink of destruction.**

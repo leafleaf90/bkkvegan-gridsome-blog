@@ -90,12 +90,25 @@ h6, .h6 {
   }
 
   .post-card-content {
+      h3, a, p {
+    text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+  }
     @apply absolute top-0 left-0 z-10 mt-20 ml-10 text-white;
   }
 
   .post-card-footer {
     @apply absolute bottom-0 left-0 text-white ml-10 mb-10 text-sm font-semibold;
-
+p {
+    text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+  }
   }
 
 }
@@ -145,6 +158,12 @@ h6, .h6 {
 @media (max-width: 767px) {
   .header {
     min-height: 360px;
+  }
+}
+
+@media (max-width: 600px) {
+  .featured-post-card{
+    display:none;
   }
 }
 
@@ -527,5 +546,7 @@ figure {
 
   figcaption {
     @apply text-center;
+    max-width: 80vw;
+    margin: 0 auto;
   }
 }
