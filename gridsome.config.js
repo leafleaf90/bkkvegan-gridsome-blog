@@ -52,6 +52,7 @@ module.exports = {
         path: "./content/author/*.md",
       },
     },
+
     {
       use: "@gridsome/source-filesystem",
       options: {
