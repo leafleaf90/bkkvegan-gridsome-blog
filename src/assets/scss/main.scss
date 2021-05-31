@@ -2,6 +2,10 @@
 
 @tailwind base;
 
+*{
+  box-sizing: border-box;
+}
+
 blockquote {
   @apply border-l-4 border-l-blue-500 pl-4 italic my-8;
 
@@ -49,6 +53,10 @@ h6, .h6 {
 
 .container {
   @apply max-w-screen-xl px-0 mx-1;
+}
+
+
+.404-container{
 }
 
 .fade-enter-active,

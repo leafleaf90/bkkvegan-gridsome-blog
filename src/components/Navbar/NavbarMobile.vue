@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="block md:hidden flex items-center justify-between flex-wrap container mx-auto py-4 dark:text-gray-400"
+    class="block md:hidden flex items-center justify-between flex-wrap container mx-auto py-2 dark:text-gray-400"
   >
     <div class="block flex-grow flex items-center w-auto mx-4">
       <div class="flex items-center flex-shrink-0 mr-6">
