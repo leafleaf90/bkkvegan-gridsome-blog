@@ -48,7 +48,7 @@ h6, .h6 {
 @import 'node_modules/vue-slick-carousel/dist/vue-slick-carousel';
 
 .container {
-  @apply max-w-screen-xl px-0;
+  @apply max-w-screen-xl px-0 mx-1;
 }
 
 .fade-enter-active,
@@ -535,7 +535,7 @@ pre[class*="language-"]>code[class*="language-"] {
 .medium-zoom-image {
   @apply z-1000;
   margin: 0 auto;
-  max-height: 60vh;
+  max-height: 80vh;
   width: auto;
 }
 
