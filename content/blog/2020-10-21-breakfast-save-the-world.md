@@ -93,6 +93,6 @@ If you’re doing the math, you’ll see that this still does not put us in the 
 
 I know what I choose. Do you?
 
-Get We Are The Weather [HERE](https://amzn.to/2IVRd2t).
+Get We Are The Weather [HERE](https://www.amazon.com/gp/product/1250757975/ref=as_li_tl?ie=UTF8&tag=powerofknow0b-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1250757975&linkId=d36d06852bd1fda28927ad714524b3c4).
 
-Another great book to learn more about the challenges ahead is [The Uninhabitable Earth](https://amzn.to/31wRrU6) by David Wallace-Wells.
+Another great book to learn more about the challenges ahead is [The Uninhabitable Earth](https://www.amazon.com/gp/product/0525576711/ref=as_li_tl?ie=UTF8&tag=powerofknow0b-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0525576711&linkId=4056be1a19187ccf6883e102eb12b1c5) by David Wallace-Wells.
